@@ -1,7 +1,9 @@
 datasciencecoursera
 ===================
 
-My Coursera Repo
+This is my repository for my Coursera course: Data Science.
 
+
+Contact
 ===================
-Chris Chia
+* [Chris Chia](mailto:chris.chia@sap.com)
